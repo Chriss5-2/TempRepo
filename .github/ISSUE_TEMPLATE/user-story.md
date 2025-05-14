@@ -18,3 +18,13 @@ assignees: ''
 ## **Context & Assumptions**
 - _Listany know constraint, assumptions, or dependencies_
 - _Mention realted user stories or issues (if applicable)._
+
+---
+## Aceptance criteria
+```
+Scenario: <Short Description>
+Given <initial context or system state>
+When <user performs an action>
+Then <expected outcome or behavior>
+And <optional additional conditions>
+```
